@@ -27,3 +27,6 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+# Ignora arquivos de propriedades com senhas
+src/main/resources/application.properties
